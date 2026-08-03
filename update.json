@@ -1,8 +1,8 @@
 {
   "launcher_version": "2.1.8",
   "launcher_url": "https://github.com/wolchuck29/JongJogLauncher/releases/download/2.1.8/JongJogLauncher_Setup.exe",
-  "modpack_version": "1.4.17",
-  "modpack_url": "https://github.com/wolchuck29/JongJogLauncher/releases/download/modpack-1.4.17/modpack.zip",
-  "manifest_version": "1.4.17",
-  "manifest_url": "https://github.com/wolchuck29/JongJogLauncher/releases/download/modpack-1.4.17/manifest.json"
+  "modpack_version": "1.4.18",
+  "modpack_url": "https://github.com/wolchuck29/JongJogLauncher/releases/download/modpack-1.4.18/modpack.zip",
+  "manifest_version": "1.4.18",
+  "manifest_url": "https://github.com/wolchuck29/JongJogLauncher/releases/download/modpack-1.4.18/manifest.json"
 }
